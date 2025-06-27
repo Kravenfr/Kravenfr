@@ -1,5 +1,8 @@
-<h1 align="center">Sup 👋, I'm Lavan</h1>
-<h3 align="center">A Computer Science Student from Sri lanka 0_0..</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Sup+Bruv!+I'm+Lavan+%F0%9F%91%8B;CS+Student+%7C+Web+Dev+Learner+%F0%9F%92%BB;Coding+%26+Chillin+Since+2005+%F0%9F%8E%89" alt="Typing SVG Banner" />
+</p>
+
+<h3 align="center">Welcome 0_0 (From SL BTW)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kravenfr&label=Profile%20views&color=0e75b6&style=flat" alt="kravenfr" /> </p>
 
