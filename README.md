@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Java, JavaScript ,UI/UX Basics, Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [Still not Hosted 0_0](Still not Hosted 0_0)
+- 👨‍💻 All of my projects are available at https://kravenfr.github.io/Portfolio/
 
 - 💬 Ask me about **Web development (HTML, CSS), Python & java**
 
